@@ -31,6 +31,14 @@ I had got "Timestamp: 3662093991" from my disignated NTP SRV.<BR>
 Displayed time is correct.<BR>
 But apparently differs timeStamp value from normal one.<BR>
 This is experiment, so i do not care<BR>
+2nd Postscript:-)<BR>
+Reglet with me...I am wrong.
+you could read this.
+http://keigox68000.hatenablog.com/entry/20120206/p1
+NTP timestamp:1900/1/1 0
+Unix timestamp:1970/1/1 0
+This is all:-).
+this made Offset 70 years.  
 <BR>
 Notice:<BR>
 I do not care accuracy of this and wrote here.<BR>
