@@ -19,3 +19,13 @@ Timestamp: 3662091416<BR>
 Current date and time:<BR>
 18/01/2016<BR>
 16:36:56<BR>
+
+Postscript:
+If you like timestamp verify, use this.
+http://www.timestampconvert.com/
+I had got "Timestamp: 3662093991" from my disignated NTP SRV.
+Is this my fault or not, i do not know.
+
+Notice:
+I do not care accuracy of this and wrote here.
+Please testify every thing with yourself :-).
