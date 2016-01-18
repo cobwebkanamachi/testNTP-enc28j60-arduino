@@ -1,5 +1,9 @@
 # testNTP-enc28j60-arduino
 ethercardtest
+Notice:
+I do not care accuracy of this and wrote here.
+Please testify every thing with yourself :-).
+I can not take responsibility.
 this is a fork of this bellow.<BR>
 https://github.com/Microduino/Microduino_Tutorials/blob/master/Microduino_ENC/ENCnetworktwelve/ENCnetworktwelve.ino<BR>
 tested under Uno compatible breadboard arduino(328p).<BR>
